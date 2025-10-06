@@ -32,7 +32,7 @@ useHead({
       <section class="legal-section">
         <h2>hébergeur</h2>
         <p>netlify, inc.</p>
-        <p>44 montgomery street, suite 300, san srancisco, ca 94104</p>
+        <p>44 montgomery street, suite 300, san francisco, ca 94104</p>
       </section>
 
       <section class="legal-section">
