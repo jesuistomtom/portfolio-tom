@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   alias: {
-    assets: "/<rootDir>/assets",
+    assets: "~/assets",
   },
 
   css: ["~/assets/styles/main.scss"],

@@ -11,7 +11,7 @@ const content = indexContent as PageData
 <template>
   <main class="index-container" ref="containerRef">
     <!-- <SquareShape /> -->
-    <TempBackground :shapes="content.shapes" />
+    <TempBackground />
     <Title :title="content.title" :subtitle="content.subtitle" />
     <DefaultPageList v-if="content.items" :items="content.items" />
     <FooterComponent v-if="content.footerLinks?.leftLink" :leftLink="content.footerLinks.leftLink"
